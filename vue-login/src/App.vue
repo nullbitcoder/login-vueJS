@@ -1,9 +1,6 @@
 <template>
   <v-app>
-      <div class="d-flex align-center">
-
-       
-      </div>
+      
 
       <v-spacer></v-spacer>
 
