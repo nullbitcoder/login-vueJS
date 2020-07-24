@@ -1,7 +1,5 @@
 <template>
   <v-app>
-      <v-btn
-      >
         <span class="mr-2">Latest Release</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
